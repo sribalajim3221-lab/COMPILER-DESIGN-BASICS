@@ -23,4 +23,4 @@ In conclusion, this program is a simple but effective demonstration of lexical a
 
 output:
 
-<img width="1919" height="1001" alt="Image" src="https://github.com/user-attachments/assets/d34f6c40-53aa-4d77-8088-929524461ce8" />
+
